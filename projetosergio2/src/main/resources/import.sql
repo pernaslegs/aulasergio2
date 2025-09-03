@@ -1,0 +1,1 @@
+insert into Editora (nome) values ('Patua');
