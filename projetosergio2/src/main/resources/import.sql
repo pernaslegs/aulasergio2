@@ -1,1 +1,1 @@
-insert into Editora (codigo, nome) values ( 1 'Patua');
+insert into Editora ( nome) values ( 'Patua');
