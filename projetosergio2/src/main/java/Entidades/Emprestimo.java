@@ -15,7 +15,7 @@ public class Emprestimo {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Long codigo;
 
-    public  LocalDate dataEmprestimo;
+    public LocalDate dataEmprestimo;
 
     public LocalDate dataDevolucao ;
 

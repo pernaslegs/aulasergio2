@@ -11,7 +11,7 @@ public class Editora {
     
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    public Long codigo;
+    public Integer codigo;
 
     public String nome;
 
